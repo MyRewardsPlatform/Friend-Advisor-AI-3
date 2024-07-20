@@ -1,0 +1,8 @@
+#install with npm
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "vue": "^2.6.14",
+    "nodejs": "^14.17.6"
+  }
+}

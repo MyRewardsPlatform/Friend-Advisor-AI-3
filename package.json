@@ -1,0 +1,21 @@
+{
+  "name": "friend-advisor-ai",
+  "version": "1.0.0",
+  "description": "Friend Advisor AI Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step defined' && exit 0",
+    "test": "echo 'No test specified' && exit 0"
+  },
+  "dependencies": {
+    "nodejs": "",
+    "react": "",
+    "vue": ""
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
